@@ -8,7 +8,8 @@ Well with the scripts found in this repository you can use the [XKCD Now Comic](
 2. Run the `install.bat` (See below for customization)
    * **Note**: If you recieve an Error when the `install.bat` finished, you have to open an cmd as Administrator and run: `powershell Set-ExecutionPolicy Unrestricted`
 3. Import the created `XKCD-Now-Clock.xml` with the Windows Task Scheduler
-4. Now you have a nice Wallpaper clock
+4. Set the Dexpot background to wallpaper.jpg in the images foler
+5. Now you have a nice Wallpaper clock
 
 ## How it works.
 The `install.bat` downloads all pictures of the Comic and converts them to jpg, as Windows just supports JPEG-Wallpapers.
